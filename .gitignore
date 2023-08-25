@@ -1,3 +1,4 @@
+_pycache__
 env/
 gui_face.py
 recog_from_file.py
